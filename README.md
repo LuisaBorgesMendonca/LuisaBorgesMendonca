@@ -26,6 +26,9 @@
   <a href="https://github.com/LuisaBorgesMendonca/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisaBorgesMendonca&layout=compact&langs_count=8&card_width=320" />
   </a>
+  
+  ![bannerLinkedin](https://github.com/LuisaBorgesMendonca/LuisaBorgesMendonca/assets/25060463/fa077f6c-d336-4c4f-af3e-6c0860c18ce6)
+
 </div>
 
 <!--
