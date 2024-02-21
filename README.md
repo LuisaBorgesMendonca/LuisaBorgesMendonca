@@ -4,7 +4,7 @@
 <div>
 
   ## Hello there, I'm Luísa but people call me Lu 😁
-   #### I've been working as a developer for the last 5 years.
+   #### I've been working as a developer for the last 7 years.
   💻 I’m currently working at a Brazilian company specialized in <em>automation bank solutions</em>. <br>
   📝 And I've been studing more about <em>refactoring</em>, <em>Design Patterns</em>, <em>Clean Code</em> and <em>Clean Architecture</em>.
   
